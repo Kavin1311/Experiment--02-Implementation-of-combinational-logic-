@@ -45,14 +45,14 @@ assign x5=(b)&(~c)&(d);
 assign f1=x1|x2|x3|x4|x5;
 endmodule
 ```
-## OUTPUT
-## RTL realization
+## OUTPUT:
+## RTL realization:
 ![image](https://github.com/Kavin1311/Experiment--02-Implementation-of-combinational-logic-/assets/145695724/a3105b2f-cbc7-4790-b75e-dfdc0b7c68e4)
 
-## TRUTH TABLE
+## TRUTH TABLE:
 ![image](https://github.com/Kavin1311/Experiment--02-Implementation-of-combinational-logic-/assets/145695724/0278e8fa-f678-4df5-9bc4-4db56e85ec78)
 
-## Timing Diagram
+## Timing Diagram:
 ![image](https://github.com/Kavin1311/Experiment--02-Implementation-of-combinational-logic-/assets/145695724/832cc0dc-aef2-4c9d-b4ab-ef2c1b123626)
 
 ## Result:

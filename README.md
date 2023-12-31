@@ -1,3 +1,5 @@
+## NAME : KAVINAJAI.T
+## REGISTER NUMBER: 212223100020
 # Experiment--02-Implementation-of-combinational-logic
 
  
